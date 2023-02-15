@@ -1,0 +1,22 @@
+Hello Kira, Wake Up
+Hello Kira, Take A Rest
+Hello Kira, Show Voice Panel
+Hello Kira, Show I D S Panel
+Hello Kira, Show F D S Panel
+Hello Kira, Show System Panels
+Hello Kira, Display Light Mode
+Hello Kira, Display Dark Mode
+Hello Kira, Are You There
+Hello Kira, Enable F D S
+Hello Kira, Turn Off F D S
+Hello Kira, Enable I D S
+Hello Kira, Turn Off I D S
+Hello Kira, Shut Down All
+Hello Kira, Go Back
+Hello Kira, Show Employee Panel
+Hello Kira, Display Room Panel
+Hello Kira, Show Analytics Panel
+Hello Kira, Ignore Shutdown Command
+Hello Kira, Confirm Program Terminate
+I D S P A S S
+F D S P A S S

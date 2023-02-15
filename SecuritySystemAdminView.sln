@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecuritySystemAdminView", "SecuritySystemAdminView\SecuritySystemAdminView.csproj", "{CCA5B370-43FE-46BB-9DFB-F4655D36F7CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA5B370-43FE-46BB-9DFB-F4655D36F7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA5B370-43FE-46BB-9DFB-F4655D36F7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA5B370-43FE-46BB-9DFB-F4655D36F7CF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CCA5B370-43FE-46BB-9DFB-F4655D36F7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA5B370-43FE-46BB-9DFB-F4655D36F7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
